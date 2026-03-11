@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator Custom</string>
+    <!--title views-->
+    <string name="title_home">Inicio</string>
+    <!--button-->
+    <string name="btn_save">Guardar</string>
+    <string name="btn_load_data">Cargar datos</string>
+    <string name="btn_list_prices">Lista de precios</string>
+    <string name="btn_delete">Eliminar</string>
+    <!--text fields-->
+</resources>
